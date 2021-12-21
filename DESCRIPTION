@@ -1,0 +1,11 @@
+Package: ExpTheme
+Title: Exploristics Custom ggplot Theme
+Version: 0.0.0.9000
+Authors@R: 
+    person("Antonia", "Popescu", , "antonia.popescu@exploristics.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains helpful functions for creating ggplot graphics matching the Exploristics style and colours.
+License: N/A
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
