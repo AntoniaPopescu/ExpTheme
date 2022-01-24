@@ -29,7 +29,7 @@ exploristics_save = function(filename, myPlot, plotSize, ...){
   
   ggsave(filename = filename,
          plot = plotGrid,
-         device = "png",
+         device = "jpeg",
          width = width,
          height = height,
          units = "px",
